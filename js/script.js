@@ -108,5 +108,5 @@ window.addEventListener('DOMContentLoaded', function() {
         modal.classList.remove('show');
         document.body.style.overflow = '';
     });       
-    
+    const fad = 34; 
 });
